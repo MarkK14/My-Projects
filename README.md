@@ -19,6 +19,7 @@ Welcome! This repository showcases my programming journey through high school an
 - React development
 
 ## 📬 Contact
+- m4khaira@uwaterloo.ca
 Feel free to connect or ask about any project!
 
 ---
