@@ -14,8 +14,9 @@ Welcome! This repository showcases my programming journey through high school an
 
 - Object-oriented programming
 - Embedded systems (Arduino)
-- C++ fundamentals
+- C++ Experience
 - Python scripting
+- Java OOP Projects
 - React development
 
 ## 📬 Contact
